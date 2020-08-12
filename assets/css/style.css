@@ -239,6 +239,7 @@
   .contact-info iframe {
     width: 400px;
     height: 400px;
+    float: left;
   }
   
   .contact-info div {
@@ -267,5 +268,12 @@
     color: #fce138;
   }
   
+  .runbuddy-questions {
+    height: 400px;
+    color: white;
+    overflow:auto;
+  }
+
+
   /* REACH OUT STYLES END */
   
